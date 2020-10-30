@@ -1,4 +1,4 @@
-#Demo Git Repository
+# Demo Git Repository
 
 this is the first file in this repo.
 
